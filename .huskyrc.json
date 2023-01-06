@@ -1,6 +1,5 @@
 {
     "hooks": {
-        "pre-commit": "eslint",
-        "test:staged": "jest"
+        "pre-commit": "lint-staged"
     }
 }
